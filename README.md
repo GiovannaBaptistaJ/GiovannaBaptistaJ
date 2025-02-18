@@ -1,7 +1,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=F7A0E1&center=true&vCenter=true&repeat=false&width=430&lines=%3C%3E+Oii%2C+sou+a+Giovanna+Junges+%3C%2F%3E)](https://git.io/typing-svg)
 ### 🎓 Estudante de análise e desenvolvimento de sistemas.
-<p>Busco estágio em desenvolvimento web front-end. Sou muito paciente e dedicada no que faço, sempre em busca de aprender e me aperfeiçoar cada vez mais.
+<p>Busco estágio em desenvolvimento web. Sou muito paciente e dedicada no que faço, sempre em busca de aprender e me aperfeiçoar cada vez mais.
 
 
 
@@ -23,8 +23,9 @@
 
 <br>
 
+
 ## Meu portfólio
-<a href="https://giovannabaptistaj.github.io/">
+<a href="https://giovannabaptistaj.github.io/portfolio/">
     <img alt="link-portfolio" src="https://img.shields.io/static/v1?label&message=abrir+portfolio&color=F7A0E1&style=for-the-badge" />
 </a>
 
