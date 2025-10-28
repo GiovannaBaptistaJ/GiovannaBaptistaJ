@@ -1,7 +1,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=F7A0E1&center=true&vCenter=true&repeat=false&width=430&lines=%3C%3E+Oii%2C+sou+a+Giovanna+Junges+%3C%2F%3E)](https://git.io/typing-svg)
 ### 🎓 Estudante de análise e desenvolvimento de sistemas.
-<p>Busco estágio em desenvolvimento web. Sou muito paciente e dedicada no que faço, sempre em busca de aprender e me aperfeiçoar cada vez mais.
+<p>Sou uma estudante de Análise e Desenvolvimento de Sistemas, focada em desenvolvimento web Front-end. Estou sempre estudando e me aperfeiçoando, com muita dedicação. 
+Busco um estágio para poder aplicar todos meus conhecimentos e me desenvolver profissionalmente.
 
 
 
